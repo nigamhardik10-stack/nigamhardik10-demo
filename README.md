@@ -1,4 +1,6 @@
 # nigamhardik10-demo
 this is my first repositries.
 <br>
-author= Hardik Nigam
+author= Hardik (apna college)
+
+
