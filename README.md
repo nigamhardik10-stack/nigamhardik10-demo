@@ -2,4 +2,3 @@
 this is my first repositries.
 <br>
 author= Hardik (apna college)
-we ok with the above information.
